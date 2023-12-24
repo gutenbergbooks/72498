@@ -1,0 +1,415 @@
+
+
+
+
+                             war in heaven
+
+                           By Fletcher Pratt
+
+                    Who is going to use death-rays
+                    when solid-shot and space-mines
+                    will bring far cheaper victory?
+                    An article about space-warfare.
+
+    _Virtually all science fiction authors and most of those who
+    read the stuff have speculated at one time or another upon
+    space-warfare. How will it be waged? What will the ships be like,
+    the weapons, the tactics? Fletcher Pratt, even more renowned as a
+    military and naval historian and student than as a science fiction
+    author here take a peek into an all-too probable future and comes
+    up with some well-thought-out answers that are guaranteed to
+    surprise all would-be spacemen._
+
+           [Transcriber's Note: This etext was produced from
+                  Fantastic Universe June-July 1953.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+    _The mighty ship released a flashing sheet of energy but the
+    Uranian space-vessel's beams were met by a counter-energy screen
+    that caused its blinding heat to ricochet in flashing showers
+    from a barrier invisible against the star-studded black wall of
+    space...._
+
+Oh, yeah? It reads well--or has a few thousand fictional times--but it
+doesn't make sense in a too-real future.
+
+Look chum, a searing bolt of flame has to have something that will
+support combustion or it will go out. And what do you mean "sheet of
+energy?" How do you generate it? How do you expect to keep radiation in
+a tight beam across a couple of thousand miles of space when you can't
+even prevent a beam of light from spreading after a couple of thousand
+feet?
+
+The tractor and repulsor beams, screens of force and death-rays of
+high-power interplanetary stories simply aren't going to work. At least
+not according to any science we know now. About the only kind of "ray"
+that might be dangerous would be ultra-violet.
+
+But the Sun itself produces ultra-violet faster and in greater quantity
+than any generator man could build and unless the crews of space-ships
+are very thoroughly protected against it there won't be any space-ships.
+
+Maybe the BEMS from Arcturus will come around with something more
+serious but it is a better-than-even-money bet that they can't do any
+more about the laws governing radiation than we can. And if they can't
+space war will have to be fought with far more mundane weapons.
+
+Well, what kind of weapons? That depends upon the kind of ships. You
+don't expect an earthly battleship to carry torpedoes because she
+will never get close enough to the enemy to fire them--or a destroyer
+to mount 16-inch guns because she can't carry them. So the problem
+of space-war begins with that of designing a space-warship. And that
+brings up some interesting questions.
+
+The first of them is the shape of the ship. The torpedo-shape with
+brief wings, the type usually pictured, is very attractive. It is
+the only shape that could take off from earth and go out through the
+atmosphere. It keeps the machinery well away from the living spaces.
+For landing on the moon or an asteroid it is quite all right because it
+can be turned over and set down on its tail jets.
+
+But when space-warfare really gets going the torpedo-shape will take
+a back space before a vessel built in space (probably at a satellite
+station) to operate and fight in space. And the shape of that ship
+will be a sphere. It is the strongest, the most economical for the use
+of the contained cubic capacity, but these are not the main reasons
+for building space-warships round. The reasons are those of military
+efficiency, which take precedence over all others when it comes to
+designing fighting equipment.
+
+In the first place a sphere can be given more than one rocket exhaust.
+With more than one the spherical ship would have a maneuvering ability
+making immeasurably superior to the long, graceful torpedo. The latter
+would have to sweep around in curves of hundreds or thousands of miles,
+or change its course on gyros, which would take nearly as long. But the
+sphere, with a simple opposite-direction blast from its rockets, could
+halt, change course and be off.
+
+Probably only two exhausts are necessary, but those we have to have. I
+am aware that the engineering problems of building a space-ship that
+way are very severe but so are the engineering problems of building an
+atomic submarine or a carrier to carry jet planes. However, when there
+is urgent military necessity for something, neither expense nor the
+difficulty of the problem is ever really allowed to stand in the way.
+
+In the second place a sphere can be built with no blind angles of
+approach. The fighter airplane of today, with an enemy on his tail, is
+in trouble--and so will be a space-ship with an enemy on its exhaust.
+Of course, turrets can be mounted above or below the exhaust on a
+torpedo-shaped ship but they will never give quite the same protection
+as not having any blind angles at all.
+
+In the third place the sphere is the most convenient shape for landing
+on the Moon or asteroids and they are going to be important as bases.
+And in the fourth place the armor of the sphere can carry the main
+structural stresses, making the interior structure light.
+
+Using a spherical shape means size, of course, but so do several
+other necessary factors and it is impossible to avoid them all. This
+means that the warships of space will not be divided into classes of
+battleships, cruisers and destroyers like warships of the ocean. With
+an exception to be noted later all will be battleships. There is no
+reason for making them anything else.
+
+Oceanic destroyers gain speed by sacrificing armor but there is no
+comparable gain in a space-ship. Once the jets are started and the
+original inertia overcome the heavy ship will travel as fast as the
+light one because the limiting factor is how much acceleration the crew
+can stand physically--and it's the same for both.
+
+On earth the design of a ship is a compromise between the demands
+of armament, protection, speed and cruising radius, with the last
+the least important. For the space-ship speed will make its demands
+but they will not have to be satisfied at the expense of the other
+characteristics. However, cruising radius is something else.
+
+The ruling consideration in the radius of action of an earth-ship is
+the ability to carry fuel. Stores for the crew were seldom a problem
+during the war, even though the food did sometimes run down to Spam and
+those incredible dehydrated potatoes. Ammunition became a problem in
+only a few cases. But in the space-navy all this will be changed.
+
+Fuel does not look like a particularly serious problem. A given
+space-ship will be burning lots while she is using it but most of the
+time she'll be coasting on gained acceleration and will need fuel only
+for short bursts of maneuver during action. The true limiting factor in
+the radius of action of a space-warship is the stores for the crew--not
+food or water but most specifically air.
+
+The problem with water is not supplying it but getting rid of it.
+For every five pounds of food you eat two pounds of water is the
+minimum result, exuded in various ways. And water is ridiculously
+easy to purify by distillation. Food itself can be carried in various
+concentrated forms but it is impossible to carry reserve air except in
+oxygen bottles under compression and it is very difficult to get rid
+of surplus unwanted carbon dioxide.
+
+For stations in space air-purifiers have been suggested, consisting
+of algae operating in a churned water-tank. This would be all right
+for a station which has a steady motion in a determined orbit. But the
+space-battleship in action will be subject to violent gyrations which
+would do no good to the air-purifying system even if considerations
+of weight and space made it practical to install such a system in the
+first place.
+
+Then there is the added danger that a single hit in so vital an
+installation would put the ship out of action for keeps while a few
+oxygen bottles blown up would not matter. So the space-battleship will
+probably have to depend on bottled air, like a pre-snorkel submarine,
+and the quantity she can carry will determine her radius of action.
+
+This does not mean that she cannot make quite long voyages, since a
+ship of the dimensions we are contemplating could store quite a lot
+of air. But it does help to determine the strategy of space-warfare.
+It will be fundamentally a struggle for bases where more oxygen can
+be obtained. Not through going down into the atmosphere of Earth or
+the thin atmosphere of Mars or the questionable one of Venus. It means
+bases on the Moon and the asteroids.
+
+The Moon and asteroids are made of rocks, on the surface at least, and
+practically all rocks are loaded with oxygen--47% in the crust of
+the Earth for example. With the kind of power that will be available
+by time we get space-ships, it will be a comparatively simple matter
+to separate these rock materials from their oxygen electrolytically.
+Carbon dioxide is partly oxygen, of course, but so stubbornly bonded
+that no ordinary electrolytic process will break it and it has the
+unpleasant quality of being a gas under electrolytic conditions.
+
+Since the oxygen-producing machinery will be too heavy and bulky
+to carry aboard the space-ship the job will have to be done at
+air-refueling stations and these advanced bases will be the key of
+space-campaigns. Naturally, they will be powerfully fortified against
+attack from the enemy's space-fleet. Equally naturally they will be
+logical points of attack in the hope of limiting the enemy's operations
+by cutting his bases from under him.
+
+Thus the overall strategy of a space-campaign will somewhat resemble
+that of the Pacific War, with each party trying to destroy or
+neutralize the enemy's bases while extending his own. If both have
+bases on the Moon or Mars there may even be ground campaigns in support
+of those in the skies. And getting control of one of those erratic
+asteroids that come within the orbit of Mars will count for ten.
+
+What about armament? In stories of space-warfare that get away from
+those improbable rays there is usually some kind of hyper-super-duper
+torpedo, rocket-propelled. But this only demonstrates that the authors
+of the stories are thinking in Earth-terms instead of space-terms.
+
+It is perfectly plausible to include some torpedoes, probably with
+atomic warheads, in the armament of a space-ship--something that would
+knock out an enemy base or destroy a space-battleship at a single blow.
+But the torpedo will always be what military men call a weapon of
+opportunity.
+
+They can't be used at all angles--it would be fatally easy for one of
+them to make a near-miss on the enemy craft and atom-bomb your own Moon
+base or some part of the Earth you didn't want atom-bombed. Earth's
+gravitational attraction would pull such a torpedo in from quite a
+distance out.
+
+There is also the point that on Earth the torpedo is a comparatively
+short-range weapon, fired from concealment or under conditions where
+the torpedo-carrier approaches so rapidly it cannot be stopped--by
+a submarine under-water, by surface ships at night or from behind
+smoke-screens, by torpedo-planes that attack at ten times the speed of
+the target-ship.
+
+None of these conditions can be realized in space-warfare. Even if
+the space-ship were painted black and operating in a planetary shadow
+(as in some stories) radar would pick it up at a distance at least
+equaling that from the Earth to the Moon.
+
+And even black coloring would make the space-ship visible as it
+occluded the practically continuous blanket of stars visible in open
+space. You can't make a smoke-screen in space--you can make it, but
+it wouldn't hang and wouldn't be any use against radar if it did.
+Comparative speeds that would permit the torpedo-plane type of attack
+are simply unattainable.
+
+Finally naval experience shows that fire is always opened at the
+greatest possible range where there is any chance of doing damage--and
+that range is usually maintained in the hope of avoiding hits. Only
+when one party has been so badly pounded that defeat seems inevitable
+is there an effort to close the range for torpedo or gunfire.
+
+In space-war, given high visibility and the fact that there will be
+neither gravity nor air resistance to slow up shells, fire will be
+opened at extremely long ranges--hundreds of miles. At this distance, a
+rocket-torpedo, clearly indicating its presence by its trail of fire,
+will be quite easy to intercept--by shooting smaller rockets or shells
+with proximity fuses at it.
+
+The time it will take the torpedo to cover the distance is the major
+factor. And running in to launch a torpedo from close range will be
+very difficult because of the low speed differential between the two
+parties and again because of the distance. So it is probable that most
+space-actions will be fought out with guns.
+
+I said guns. But a very different type of gun from those most of us are
+familiar with, because this is another point where Earth-thinking must
+give way to space-thinking. When the breech-block of a gun aboard one
+of our cruisers is swung open to receive a new shell there is a brief
+moment when the gun forms an open connecting tube from the inside of
+the turret to the outside air.
+
+       *       *       *       *       *
+
+This will never do aboard a space-ship--there is no air outside and the
+air from all over the vessel would rush in a tornado to escape into
+outer space. There will have to be some device for loading the gun in
+a vacuum or, since this might give trouble in case of a breakdown or
+a misfire, more likely an automatic tompion to close the mouth of the
+gun until there is another charge in the breech. This would have the
+advantage that the rush of air into the gun, evacuated by the previous
+firing, would automatically clean it of residual explosion products.
+
+But this is not all. Since there is no air to set up resistances to
+take a projectile out of its proper path, there is no particular
+reason for rifling the gun. In fact it would be rather better not
+to. And while shells were mentioned, in connection with beating off
+rocket-torpedoes and would be very useful for that purpose, there is no
+reason whatever for employing them against another space-ship or the
+dome of an enemy base.
+
+The reason for using a shell against an Earthbound ship is that after
+it gets through the side it explodes there and messes things up for a
+considerable radius. But a space-ship is vulnerable in a way that no
+Earth-ship ever is. If it loses its air it's the finish for everybody
+aboard.
+
+A high-velocity solid-shot, penetrating the side of a space-ship,
+could tear holes in several compartments and connect them all with the
+outside, causing disastrously rapid exhaustion of the air. It would be
+much more damaging than any shell, which would only ruin one or two
+compartments. For that matter it was discovered during the last war
+that a solid projectile which penetrated a tank and ricocheted around
+inside was quite as effective as a shell-burst.
+
+A solid-shot would have more penetrating power because of its greater
+mass and unwillingness to break up against armor. And there is also
+the law of military economics that requires you do everything with the
+least expensive weapon that will accomplish the purpose. A cast-steel
+bullet with a soft iron head to "grease" its way through armor will be
+both cheaper and more effective than any type of shell.
+
+As an alternate type of ammunition for use against ships with
+exceptionally heavy armor, there might be some projectile using the
+shaped-charge principle. There's nothing wrong with carrying several
+different types of projectile for the same guns--both ship and field
+artillery do it right now.
+
+The type and purpose of the projectiles also determine the size of the
+guns. The reason for using large-caliber guns on Earth are two--to get
+a bigger bursting charge at the receiving end and to obtain greater
+range by a larger driving charge in the breech.
+
+But in space a projectile would have infinite range, unless it fell
+into the gravitational attraction of some body, and the big bursting
+charge is not required. So the gun need be only just big enough to make
+the driving charge give it a very high muzzle-velocity.
+
+Considering the question of ammunition stowage and supply, probably the
+best caliber would be between 3.5 and 6 inches, 90 and 155 millimeters.
+Liquid propellants give higher muzzle velocities than solid and would
+have the advantage of making a better seal around the projectile in the
+breech. They could be pumped in from metered tubes.
+
+After the air-tight doors have been closed the men who serve these
+guns will go into action in space-suits, breathing the air around them
+but having the suits fitted with automatic valves that will close down
+the moment the compartment begins to lose air. Damage-control parties
+will have special apparatus for patching holes--probably quick-drying
+viscous plastics with a silicone base, because of their imperviousness
+to temperature changes.
+
+What about fire controls? The calculations for them will be arduous
+because of the distances and speeds involved. But Dr. John D. Clark has
+pointed out that two space-ships engaged in a fight, no matter what
+courses they are traveling with relation to the Sun or the planets,
+are in a single plane with relation to each other and so are all the
+projectiles fired by both of them.
+
+This plane may tilt violently as they maneuver but at the moment of
+firing the line from gun to target, or predicted position of target,
+is a perfectly flat and straight line. This is a much easier ballistic
+problem than in any Earthly firing, where gravity, air resistance and
+for long ranges even the curvature and rotation of the Earth must be
+considered.
+
+The guns will certainly have automatic radar controls and a high
+rate of fire. The only trouble is that the calculations fed
+into the controls will have to be made at lightning speeds, in
+micro-seconds--which means electronic computers. And this brings up
+another difference between space-warfare and the kind we know, though
+it may extend to war on Earth.
+
+It is possible to make an electronic computer non-functional by
+overloading it with data or to drive it electronically insane by
+feeding it undesirable data. Space-warfare is therefore bound to
+include all sorts of decoy devices--small metal balloons have been
+suggested--that will register on the enemy's radar as space-ships and
+set his guns swinging wildly or firing at phantoms.
+
+The only type of ship to which all that has been said does not apply
+is the space-minelayer. These can be quite small as compared with the
+battleships, need carry no armor and can use the torpedo-shape for
+operating from an earth base. Some years ago Malcolm Jameson suggested
+small iron spheres as mines, strewn along the enemy's path where he
+would run into them--but the matter is not quite that simple.
+
+If the space-minelayer merely dumped the spheres overboard as
+an Earthly minelayer does they would become part of a new small
+gravitational system around the minelayer, and would follow her around
+like Mary's little lamb.
+
+The mines of space-warfare will have to be provided with some kind of
+power that will take them into a predetermined orbit around Earth,
+the Moon or an asteroid after the minelayer has dropped them. Only
+enough to set up the orbit, mind--after that they could take care of
+themselves.
+
+Also it is doubtful whether a mere ball of solid iron would smash up
+the works of an armored space-ship unless she met it at high speed
+on an absolute collision course. The more normal event would be for
+the mine to be picked up by the small but perceptible gravitational
+attraction of the space-ship and travel with it as a satellite. So the
+mines of space will probably have to be fairly large and contain heavy
+explosive charges, probably with proximity fuses.
+
+Still the advantages of mining are so great that they will undoubtedly
+play a large part in space-warfare. Asteroid or Moon bases can be
+defended by minefields, which would keep an enemy at a distance until
+he had painstakingly located the pesky objects and shot them up, during
+which time the ship would be an ideal target for guns on the ground.
+
+       *       *       *       *       *
+
+And one striking feature about this space minefield must always be
+remembered, a feature that makes it different from anything encountered
+on the ocean. The fields will be constantly moving. Fixed in an orbit
+25,000 miles above the Earth a space-mine would always remain over the
+same Earthly spot and there is a similar critical distance for the
+Moon, Mars, and the asteroids.
+
+But few of the mines will be at exactly that distance. Unless they
+are they will be tiny satellites, revolving around their primaries at
+greater or less speeds, constantly on the go. A space-ship won't have
+to hit them. They will hunt it up.
+
+There is also the fact that mining in war is not merely a defensive
+tactic. In World War I the German subs were pretty thoroughly mined
+in by the barrages across the North Sea and English Channel. In World
+War II what was left of the Japanese fleet was immobilized in its
+harbors by mines. Space-mines would serve a similar purpose of closing
+a planetoid or an area to all access.
+
+They could serve a tactical purpose as well by limiting avenues of
+approach. Not that they couldn't be eliminated--rocket-torpedo fire
+would be something quite different and more effective than the same
+kind of fire against a space-battleship capable of striking back.
+
+But this would take time and time is the one thing no one can afford to
+waste in a kind of war where everything will move at speeds exceeding
+those of the planets.
